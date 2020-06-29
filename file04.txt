@@ -1,3 +1,5 @@
 File 04
 I have added the file, but not committed it.
 I am altering the file after the ADD.
+
+Changed in BranchA.
