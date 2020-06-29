@@ -1,1 +1,1 @@
-Modified (after the ADD).Hello again.
+Modified (after the ADD).Hello again.Changed in BranchA.
